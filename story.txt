@@ -1,0 +1,53 @@
+***** intro *****
+
+???:    Hey, wake up! We need to go.
+S-749:  . . .
+??:     Hey, are you okay? Hurry up, we need to move now!
+S-749:  W-What...? Where am I?
+???:    I'll explain you later, come on, move!
+S-749:  What? Who is talking? Where are you?
+???:    *Sighs* I'm in your head, you don't remember anything, do you? My name is Emil, and AI implanted in your brain.
+S-749:  I'm confused... I don't remember you or... anything about this place. Where are we?
+Emil:   We need to move, I'll tell you more soon, but for now we need to leave this place. Hurry up, get on your feet
+        and start walking.
+S-749:  Alright... Where do I go?
+Emil:   Let me map the room... Okay, we have two choices: go left or go right, both ways seem safe according to my
+        mapping.
+S-749:  Okay... so... tell me where to go.
+Emil:   Well, if we go right, we get deeper into the first floor, if we go left, we access the stairs to the second
+        floor. The door in front of us seems locked. I'll recommend going into the first floor, maybe we can find the
+        exit.
+S-749:  You don't know where the exit is? What happened to your "mapping"?
+Emil:   This is a place neither you nor I know so my mapping can't show us the entire place. We need to move to create
+        a virtual map. I'm as lost as you are.
+S-749:  I'm getting scared... And I feel... weird, tired.
+Emil:   You've been sleeping for about 1500 years, it's logical that you feel tired.
+S-749:  WHAT!?
+Emil:   Please! Move! We can't stay here much longer, the radiation levels are increasing extremely fast. Move!
+
+*Decisions are important in this game. It'll affect the behaviors of some characters, the trust they have in you and may
+or may not help you in certain situations.*
+
+***** end intro *****
+
+
+***** left *****
+
+S-749:  Let's go left, upstairs.
+
+. . .
+
+Emil:
+
+***** end left *****
+
+
+***** right *****
+This
+is
+a test
+if the user
+goes
+right.
+
+***** end right *****

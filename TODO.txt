@@ -1,0 +1,8 @@
+TO DO LOG: RIDDLE
+
+14/09/2018:
+- Find a way to show the storylines just once, meaning that once the text is on the screen, don't show it again.
+- Hide the text using another button. 
+- Make a function (def) to break the story in lines to show it more efficiently. 
+- Rename variables and write a description for each one.
+- Write a short description of each function using triple quotes. 
