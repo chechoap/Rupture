@@ -16,6 +16,7 @@ def introtext():
                     print(line.strip())
                     line = t.readline()
                     time.sleep(0.5)
+                    
 
 
 def choices(uc):
