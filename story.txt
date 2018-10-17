@@ -31,37 +31,25 @@ or may not help you in certain situations.*
 ***** end intro *****
 
 
-***** control room *****
-
-** 1 **
-
-S-749:  Let's go left, upstairs.
-
-. . .
-
-Emil:   This seems to be a control room, but I don't get any signals from it, no electric power either.
-S-749:  Yeah, I see all this equipment... Is this what controles all those capsules out there?
-Emil:   Probably this controls everything in this place.
-S-749:  Everything?
-Emil:   Yes, don't you think there's more to this place than just these rooms?
-S-749:  You tell me!
-Emil:   Okay, okay. Chill. Let's see if we can find some information about this place in this room.
-S-749:  Is there a way that we can turn this computers on? Surely we can find some information in it.
-Emil:   Maybe, but firt we need to give power to this machines.
-S-749:  Alright, let's go the other way then. We can't do much here by now.
-
-****
-
+***** left *****
+a
+a
+a
+a
 
 ***** end left *****
 
 
 ***** right *****
-This
-is
-a test
-if the user
-goes
-right.
-
+lul
 ***** end right *****
+
+***** test *****
+
+hello
+this
+is
+a
+test
+
+***** end test *****
