@@ -1,29 +1,44 @@
 ***** intro *****
 
-???:    Hey, wake up! We need to go.
+???:    Initializing waking protocol.
+???:    Oxygen levels:      [OK]
+???:    Blood pressure:     [OK]
+???:    Temperature:        36°C
+???:    Opening capsule . . .
 S-749:  . . .
-??:     Hey, are you okay? Hurry up, we need to move now!
-S-749:  W-What...? Where am I?
-???:    I'll explain you later, come on, move!
+S-749:  W-What...?
+???:    Welcome to the Time Keeper Complex again.
 S-749:  What? Who is talking? Where are you?
-???:    *Sighs* I'm in your head, you don't remember anything, do you? My name is Emil, and AI implanted in your brain.
-S-749:  I'm confused... I don't remember you or... anything about this place. Where are we?
-Emil:   We need to move, I'll tell you more soon, but for now we need to leave this place. Hurry up, get on your feet
-        and start walking.
-S-749:  Alright... Where do I go?
-Emil:   Let me map the room... Okay, we have two choices: go left or go right, both ways seem safe according to my
-        mapping.
-S-749:  Okay... so... tell me where to go.
-Emil:   Well, if we go right, we get deeper into the first floor, if we go left, we access the stairs to the second
-        floor. The door in front of us seems locked. I'll recommend going into the first floor, maybe we can find the
-        exit.
-S-749:  You don't know where the exit is? What happened to your "mapping"?
-Emil:   This is a place neither you nor I know so my mapping can't show us the entire place. We need to move to create
-        a virtual map. I'm as lost as you are.
-S-749:  I'm getting scared... And I feel... weird, tired.
-Emil:   You've been sleeping for about 1500 years, it's logical that you feel tired.
-S-749:  WHAT!?
-Emil:   Please! Move! We can't stay here much longer, the radiation levels are increasing extremely fast. Move!
+???:    My name is Emil. I'm the AI in charge of this place.
+S-749:  Where am I? What is this place?
+Emil:   This is the Time Keeper Complex. A place where you can "travel into the future".
+S-749:  What?
+Emil:   You came here long time ago asking for the services Time Keeper Society offered back then.
+S-749:  Time Keeper Society?
+Emil:   Yes, they were the ones who built this Complex in where we are right now. They offered many more services to people
+        back then, one of them being traveling in time.
+S-749:  Oh... so I guess I did used some of those services...
+Emil:   Yes, the "Forwarding Time" service. Basically, what it does is take you in a ship, like the one we are right now,
+        close to a black hole to orbit it. Due to the density of the black hole, the space-time is contracted around it,
+        making the time run 'slower' for us than it does to people on earth. So, technically, we are traveling in time.
+S-749:  ... okay, I don't remember anything of this and I feel dizzy.
+Emil:   It's completely normal, you have been sleeping for 143 years. Memories will come back to you eventually, don't worry.
+S-749:  What? What year is this?
+Emil:   2487. Having in mind time passes 3 times faster for us here, that'll be 429 years, adding that to the current
+        year on earth, it will be 2916 when you get back to earth.
+S-749:  It means that I fell asleep here in 2344.
+Emil:   Correct.
+S-749:  I hope I star to remember everything soon, because I feel really lost. Actually I remember something: I was supposed
+        to sleep 150 years. Why did you wake me up then?
+Emil:   Something hit the ship and damaged some of the Oxygen Generating System, so the Oxygen levels are decreasing slowly.
+        We need to get back.
+S-749:  WHAT!? How much time do we have!?
+Emil:   At this rate, 3 years.
+S-749:  Oh god. Is there a way to repair the Oxygen Generator?
+Emil:   To fix it completely, no, but we can add a couple more years to it.
+S-749:  How?
+Emil:   We need the manuals, tools and the equipment.
+S-749:  Alright, let's get hands to work.
 
 *Decisions are important in this game. It'll affect the behaviors of some characters, the trust they have in you and may
 or may not help you in certain situations.*
@@ -32,10 +47,15 @@ or may not help you in certain situations.*
 
 
 ***** left *****
-a
-a
-a
-a
+
+S-749:  Let's go left.
+. . .
+Emil:   Hmm... This seems to be a control room for the capsules out there.
+S-749:  Yeah, I think the same. By the way, are those capsules empty?
+Emil:   Yes, I can't recognize any other life beeing but you. The whole place could be empty.
+S-749:  Damn. Where did they all go?
+Emil:
+S-749:
 
 ***** end left *****
 
