@@ -15,13 +15,13 @@ def introtext():
                 else:
                     print(line.strip())
                     line = t.readline()
-                    time.sleep(0.5)
+                    time.sleep(0.9)
                     
 
 def choices():
 
     uc = input
-    print("a. Go left (Stairs to the second floor).\nb. Go right.(Deeper into the first floor")
+    print("a. Go left (Stairs to the second floor).\nb. Go right.(Deeper into the first floor).")
 
     # validation to receive either "a" or "b"
     while uc != "a" or uc != "b":
